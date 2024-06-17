@@ -28320,7 +28320,7 @@ section.u-palette-3-base:before,
 li.active > .u-button-style.u-button-style.u-palette-3-base,
 li.active > .u-button-style.u-button-style.u-palette-3-base[class*="u-border-"] {
   color: var(--palette-3-base-text-color) !important;
-  background-color: var(--palette-3-base-darker) !important;
+  background-color:var(--palette-3-base-darker) !important;
 }
 .u-hover-palette-3-base:hover,
 .u-hover-palette-3-base[class*="u-border-"]:hover,
